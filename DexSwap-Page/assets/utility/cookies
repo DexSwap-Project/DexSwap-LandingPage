@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>DexSwap Project | Official Website</title>
+    <meta name="robots" content="follow">
+    <meta name="author" content="DexSwap Project">
+    <meta name="description" content="DexSwap - leading decentralized crypto trading protocol" />
+    <meta name="copyright" content="2019">
+    <meta name="description" content="DexSwap - leading decentralized crypto trading protocol">
+    <meta name="keywords"
+        content="DexSwap, crypto mobile minning application, crypto advertise, youtube ads, harmony, harmony grants, zooHarmony, DexSwap AMM, adsense blockchain, blockchain advertise, blockchian ads,Cryptocurrency, Crypto, Invest, Crypto made easy, Exchange, All in one, Platform, Mining Application, Blockchain mining Aplication">
+    <meta property="og:title" content="DexSwap - leading decentralized crypto trading protocol" />
+    <meta property="og:site_name" content="DexSwap - leading decentralized crypto trading protocol" />
+    <meta property="og:description"
+        content="DexSwap leading crypto advertising network. leading decentralized crypto trading protocol" />
+    <meta name="twitter:site" content="@DexSwap">
+    <meta name="twitter:creator" content="@DexSwap">
+    <meta name="twitter:title" content="DexSwap - leading decentralized crypto trading protocol">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fa760a">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#fa760a">
+    <link rel="stylesheet" href="/assets/utility/javascript/app.compose.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140824798-1"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-140824798-1');
+    </script>
+</head>
+
+<body>
+    <!-- LOADING -->
+    <div id="overlay"></div>
+    <!-- /LOADING -->
+    <div id="site_header">
+        <div id="delgo_uiles">
+            <div class="left_uiles uiles">
+                <div class="sm_uiles top"></div>
+                <div class="md_uiles"></div>
+                <div class="mid_uiles"></div>
+                <div class="sm_uiles bot"></div>
+            </div>
+            <div class="right_uiles uiles">
+
+                <div class="sm_uiles top"></div>
+                <div class="md_uiles"></div>
+                <div class="mid_uiles"></div>
+                <div class="sm_uiles bot"></div>
+            </div>
+
+        </div>
+        <!--  -->
+        <div id="base_menu" class="hover-target">
+            <svg version="1.1" id="menu-icon" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 6 64 54.8"
+                style="enable-background:new 0 6 64 54.8;" xml:space="preserve">
+                <path id="bar-bottom" d="M6.8,49.1h51.1c1.2,0,2.2,1.3,2.2,2.8l0,0c0,1.5-1,2.8-2.2,2.8H6.8c-1.2,0-2.2-1.3-2.2-2.8l0,0
+                                    C4.6,50.3,5.6,49.1,6.8,49.1z" />
+                <path id="bar-top"
+                    d="M6.8,12h51.1c1.2,0,2.2,1.2,2.2,2.7l0,0c0,1.5-1,2.7-2.2,2.7H6.8c-1.2,0-2.2-1.2-2.2-2.7l0,0 C4.6,13.2,5.6,12,6.8,12z"
+                    data-svg-origin="32.35000038146973 14.699999809265137"
+                    transform="matrix(1,0,0,1,0,4.975954210676857)" style=""></path>
+                <path id="bar-mid-l" d="M6.8,30.7c-1.2,0-2.2,1.2-2.2,2.7s1,2.7,2.2,2.7h25.4v-5.4H6.8z" />
+                <path id="bar-mid-r" d="M57.9,30.7h-26v5.4h26c1.2,0,2.2-1.2,2.2-2.7S59.1,30.7,57.9,30.7z" />
+                <circle id="circle" cx="32.2" cy="33.4" r="23.5" />
+            </svg>
+            <div id="base_menu_label">
+                <span>menu</span>
+            </div>
+        </div>
+        <!--  -->
+        <div id="delgo_NAV">
+            <div id="nav_bg_1"></div>
+            <div id="nav_bg_2"></div>
+            <div class="menu">
+                <div class="table">
+                    <div class="table-cell">
+                        <ul>
+                            <span class="thistop_line thisline"></span>
+                            <li>
+                                <a class="newtab hover-target" href="/home">
+                                    <span class="label">Home</span>
+                                    <span class="row_blck">
+                                        <span class="sub_bg1"></span>
+                                        <span class="sub_bg2"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="newtab hover-target" href="#">
+                                    <span class="label">WHITEPAPER</span>
+                                    <span class="row_blck">
+                                        <span class="sub_bg1"></span>
+                                        <span class="sub_bg2"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="newtab hover-target" href="#">
+                                    <span class="label">LEGAL INFORMATION</span>
+                                    <span class="row_blck">
+                                        <span class="sub_bg1"></span>
+                                        <span class="sub_bg2"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="newtab hover-target" href="#">
+                                    <span class="label">System</span>
+                                    <span class="row_blck">
+                                        <span class="sub_bg1"></span>
+                                        <span class="sub_bg2"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="newtab hover-target" href="./cookies" target="_blank" rel="noopener">
+                                    <span class="label">COOKIES POLICY</span>
+                                    <span class="row_blck">
+                                        <span class="sub_bg1"></span>
+                                        <span class="sub_bg2"></span>
+                                    </span>
+                                </a>
+                            </li>
+                            <span class="thisbot_line thisline"></span>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="head" class="header">
+        <a href="/home" class="logo hover-target" id="main-logo" title="dexswap.com">
+            <div class="logo-wrap" id="logo-wrap">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    viewBox="0 0 30.5 54.9">
+                    <defs>
+                        <linearGradient id="a" x1="-1725.41" y1="283.97" x2="-1724.86" y2="283.97"
+                            gradientTransform="matrix(-15.46, -16.18, -16.32, 15.33, -22011.03, -32218.68)"
+                            gradientUnits="userSpaceOnUse">
+                            <stop offset="0" stop-color="#c63232" />
+                            <stop offset="1" stop-color="#f5933b" />
+                        </linearGradient>
+                        <radialGradient id="b" cx="69.36" cy="85.22" r="1.02"
+                            gradientTransform="translate(-402.7 -505.4) scale(6.16 6.48)"
+                            gradientUnits="userSpaceOnUse">
+                            <stop offset="0" stop-color="#fff" />
+                            <stop offset="1" stop-color="#ddd" />
+                        </radialGradient>
+                        <radialGradient id="c" cx="69.37" cy="85.26" r="0.31" xlink:href="#b" />
+                        <radialGradient id="d" cx="69.37" cy="85.26" r="0.31" xlink:href="#b" />
+                        <radialGradient id="e" cx="18.85" cy="51.67" r="8.51"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a" />
+                        <radialGradient id="f" cx="15.26" cy="53.25" r="2.8"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="g" x1="8.41" y1="262.33" x2="24.15" y2="262.33"
+                            gradientTransform="matrix(1, 0, 0, -1, 0, 284.28)" xlink:href="#a" />
+                        <radialGradient id="h" cx="16.28" cy="21.84" r="16.44"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="i" x1="6.33" y1="251.83" x2="21.3" y2="251.83"
+                            gradientTransform="matrix(1, 0, 0, -1, 0, 284.28)" xlink:href="#a" />
+                        <radialGradient id="j" cx="13.85" cy="32.24" r="15.9"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="k" x1="8.75" y1="42.04" x2="6.36" y2="27.37"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a" />
+                        <radialGradient id="l" cx="7.79" cy="35.16" r="13.56"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="m" x1="3.85" y1="49.03" x2="8.11" y2="36.31"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a" />
+                        <radialGradient id="n" cx="6.42" cy="41.55" r="9.73"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="o" x1="24.56" y1="48.42" x2="23.62" y2="35.48"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a" />
+                        <radialGradient id="p" cx="24.06" cy="41.44" r="9.68"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                        <linearGradient id="q" x1="22.02" y1="44.94" x2="23.54" y2="25.5"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a" />
+                        <radialGradient id="r" cx="22.69" cy="35.16" r="13.56"
+                            gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#b" />
+                    </defs>
+                    <path
+                        d="M19.1,44.9v3.8A2.8,2.8,0,0,0,20.3,51l3.2,1.9a2.3,2.3,0,0,0,2.5,0L29.1,51a2.8,2.8,0,0,0,1.2-2.3V44.9a2.6,2.6,0,0,0-1.2-2.2L26,40.8a2.3,2.3,0,0,0-2.5,0l-3.2,1.9A2.6,2.6,0,0,0,19.1,44.9Z"
+                        fill="url(#a)" />
+                    <path
+                        d="M19.1,44.9v3.8A2.8,2.8,0,0,0,20.3,51l3.2,1.9a2.3,2.3,0,0,0,2.5,0L29.1,51a2.8,2.8,0,0,0,1.2-2.3V44.9a2.6,2.6,0,0,0-1.2-2.2L26,40.8a2.3,2.3,0,0,0-2.5,0l-3.2,1.9A2.6,2.6,0,0,0,19.1,44.9Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.13" stroke="url(#b)" />
+                    <path
+                        d="M24.4,49.5V44.7c0-.2.1-.4.3-.4h.1a.4.4,0,0,1,.3.4h0v4.8c0,.2-.1.4-.3.4h0A.4.4,0,0,1,24.4,49.5Z"
+                        fill="url(#c)" />
+                    <path
+                        d="M27.1,47.5H22.4a.4.4,0,0,1-.3-.4h0c0-.2.1-.4.3-.4h4.7c.2,0,.3.2.3.4h0C27.4,47.3,27.3,47.5,27.1,47.5Z"
+                        fill="url(#d)" />
+                    <path
+                        d="M18.7,53.4,18,52.1a8,8,0,0,0-2.7-.4h-.1a9,9,0,0,0-2.8.4l-.6,1.3a11.1,11.1,0,0,0,3.4,1.4,12.8,12.8,0,0,0,3.4-1.4Z"
+                        stroke-miterlimit="10" stroke-width="0.19" fill="url(#e)" stroke="url(#f)" />
+                    <path
+                        d="M15,23.5c1.8,2.3,3.4,4.4,3.4,7.3s-1.6,5.6-3.2,8.5a21.2,21.2,0,0,0,1.1,2.1c.3.6.5,1.2.8,1.9h0c1-7.7,6-11.7,7.1-17.7h0a44.8,44.8,0,0,0-5.9-6.4L16.2,17c-3.2-3.2-5.8-6.8-5.9-12h0A16.2,16.2,0,0,1,11,.6,15.7,15.7,0,0,0,8.4,9.4h0A16.8,16.8,0,0,0,12.1,20L15,23.5Z"
+                        fill="url(#g)" />
+                    <path
+                        d="M15,23.5c1.8,2.3,3.4,4.4,3.4,7.3s-1.6,5.6-3.2,8.5a21.2,21.2,0,0,0,1.1,2.1c.3.6.5,1.2.8,1.9h0c1-7.7,6-11.7,7.1-17.7h0a44.8,44.8,0,0,0-5.9-6.4L16.2,17c-3.2-3.2-5.8-6.8-5.9-12h0A16.2,16.2,0,0,1,11,.6,15.7,15.7,0,0,0,8.4,9.4h0A16.8,16.8,0,0,0,12.1,20L15,23.5Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.19" stroke="url(#h)" />
+                    <path
+                        d="M18.7,53.4a12.7,12.7,0,0,1-1.3-3.2,13.1,13.1,0,0,1-.5-3.9h0a14.2,14.2,0,0,1,.2-2.9,30.3,30.3,0,0,0-1.9-4c-1.7-2.9-3.3-5-3.3-8.4s1.4-5.2,3.1-7.4a48.7,48.7,0,0,0,3.3-4.3,17.3,17.3,0,0,0,3-7.7A17.9,17.9,0,0,1,16.2,17c-1.3,1.1-2.7,2-4.1,3s-4.7,3.2-5.8,5.6c1.2,6.8,7.4,11,7.3,20.7a14.3,14.3,0,0,1-1.2,5.8h0a9,9,0,0,1,2.8-.4h.1a8,8,0,0,1,2.7.4l.7,1.3Z"
+                        fill="url(#i)" />
+                    <path
+                        d="M18.7,53.4a12.7,12.7,0,0,1-1.3-3.2,13.1,13.1,0,0,1-.5-3.9h0a14.2,14.2,0,0,1,.2-2.9,30.3,30.3,0,0,0-1.9-4c-1.7-2.9-3.3-5-3.3-8.4s1.4-5.2,3.1-7.4a48.7,48.7,0,0,0,3.3-4.3,17.3,17.3,0,0,0,3-7.7A17.9,17.9,0,0,1,16.2,17c-1.3,1.1-2.7,2-4.1,3s-4.7,3.2-5.8,5.6c1.2,6.8,7.4,11,7.3,20.7a14.3,14.3,0,0,1-1.2,5.8h0a9,9,0,0,1,2.8-.4h.1a8,8,0,0,1,2.7.4l.7,1.3Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.19" stroke="url(#j)" />
+                    <path
+                        d="M11.8,53.4a14.4,14.4,0,0,0,1.8-7.1c.1-10.7-7.5-14.8-7.4-22.9A11.6,11.6,0,0,1,8,17.1C4.4,18.6,2,22.5,2,27c-.1,9,10.8,9.2,10.7,21.1a16,16,0,0,1-.9,5.3Z"
+                        stroke-miterlimit="10" stroke-width="0.19" fill="url(#k)" stroke="url(#l)" />
+                    <path
+                        d="M11.8,53.4C9.1,41.8-3.3,43.9,1,29.4c-.3,3,0,5.9,2.1,8.5a18.4,18.4,0,0,1,.3-5.8h0a23,23,0,0,0,3.3,3.7h0c.8,3.4,2.3,6,5.2,6.9a14.5,14.5,0,0,1,.8,5.4,15,15,0,0,1-.9,5.2Z"
+                        fill="url(#m)" />
+                    <path
+                        d="M11.8,53.4C9.1,41.8-3.3,43.9,1,29.4c-.3,3,0,5.9,2.1,8.5a18.4,18.4,0,0,1,.3-5.8h0a23,23,0,0,0,3.3,3.7h0c.8,3.4,2.3,6,5.2,6.9a14.5,14.5,0,0,1,.8,5.4,15,15,0,0,1-.9,5.2Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.19" stroke="url(#n)" />
+                    <path
+                        d="M29.5,29.4c.3,3,0,5.9-2.1,8.5a21.8,21.8,0,0,0-.4-5.8,18.5,18.5,0,0,1-3.2,3.7h0c-.8,3.4-2.3,6-5.2,6.9a17,17,0,0,0-.9,5.4,15,15,0,0,0,1,5.2h0C21.4,41.8,33.8,43.9,29.5,29.4Z"
+                        fill="url(#o)" />
+                    <path
+                        d="M29.5,29.4c.3,3,0,5.9-2.1,8.5a21.8,21.8,0,0,0-.4-5.8,18.5,18.5,0,0,1-3.2,3.7h0c-.8,3.4-2.3,6-5.2,6.9a17,17,0,0,0-.9,5.4,15,15,0,0,0,1,5.2h0C21.4,41.8,33.8,43.9,29.5,29.4Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.19" stroke="url(#p)" />
+                    <path
+                        d="M22.5,17.1a11.6,11.6,0,0,1,1.8,6.3c.1,8.1-7.5,12.2-7.4,22.9a14.4,14.4,0,0,0,1.8,7.1h0a16.1,16.1,0,0,1-1-5.3C17.7,36.2,28.6,36,28.5,27,28.5,22.5,26.1,18.6,22.5,17.1Z"
+                        fill="url(#q)" />
+                    <path
+                        d="M22.5,17.1a11.6,11.6,0,0,1,1.8,6.3c.1,8.1-7.5,12.2-7.4,22.9a14.4,14.4,0,0,0,1.8,7.1h0a16.1,16.1,0,0,1-1-5.3C17.7,36.2,28.6,36,28.5,27,28.5,22.5,26.1,18.6,22.5,17.1Z"
+                        fill="none" stroke-miterlimit="10" stroke-width="0.19" stroke="url(#r)" />
+                </svg>
+            </div>
+            <div class="logo-box" id="logo-box"></div>
+        </a>
+    </div>
+    <div class="mouseline_effect">
+        <span class="mouse-icon">
+            <span class="border"></span>
+            <span class="point">
+                <span></span>
+            </span>
+            <span class="mouse-label">
+                <span>Scroll</span>
+                <span>swipe</span>
+            </span>
+        </span>
+        <span class="mouse-line">
+            <span><span>
+                </span></span>
+        </span>
+    </div>
+
+    <div id="shadow_loader" class="this_shadLoader">
+        <div class="progress">
+            <div class="bar" id="shadowBar"></div>
+        </div>
+    </div>
+    <div id="barba-wrapper">
+        <div class="barba-container">
+            <div id="main" class="q_smooth">
+                <div id="section-header">
+                    <section class="section headsection bg_cover" style="background-image:url('/assets/utility/team/')">
+                        <div class="q-container container-inner no_pdng">
+                            <div class="columns">
+                                <div class="column q-1-2 w_100">
+                                    <div class="title team_main_title">
+                                        <h1>
+                                            <span class="q_split">
+                                                <span class="q_split_wrap rev_item_head">DexSwap</span>
+                                            </span>
+                                            <span class="q_split">
+                                                <span class="q_split_wrap rev_item_head">Cookies
+                                                    Policy</span>
+                                            </span>
+                                        </h1>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <section class="section mobile-nopb this_titleTM">
+                    <div class="container-inner p-LR110 main_content">
+                        <div class="columns reveal">
+                            <div class="column q-12 pt-80">
+                                <div class="rev_cover2"></div>
+                                <div class="rev_cover"></div>
+                                <h2>
+                                    <span class="q_split">
+                                        <span class="q_split_wrap rev_item is_tGrad6">COOKIES
+                                        </span>
+                                    </span>
+                                </h2>
+                                <p class="rev_scale is_tLeft is_tGradtext">
+                                    We are DexSwap - leading decentralized crypto trading protocol.
+                                    Registered
+                                    (61245796/IN 44782356 P01 ) in Indonesia and located in JL. Pemuda No.5 Majalengka
+                                    Jawa Barat,
+                                    INDONESIA.
+                                </p>
+                            </div>
+                        </div>
+                </section>
+                <!--  -->
+                <section class="section mobile-nopb this_titleTM">
+                    <div class="container-inner p-LR110 main_content">
+                        <div class="columns reveal">
+                            <div class="column q-12 pt-80">
+                                <div class="rev_cover2"></div>
+                                <div class="rev_cover"></div>
+                                <h2>
+                                    <span class="q_split">
+                                        <span class="q_split_wrap rev_item is_tGrad6">COOKIES ON OUR WEBSITE</span>
+                                    </span>
+                                </h2>
+                                <p class="rev_scale is_tLeft is_tGradtext">
+                                    Cookies on our website are required for technical reasons in order for our Website
+                                    and Services to
+                                    operate, and we refer to these as “essential” or “strictly necessary” cookies. Other
+                                    cookies enable us
+                                    (and the third parties we work with) to track and target the interests of visitors
+                                    to our Website, and
+                                    we refer to these as “performance” or “functionality” cookies. We use the following
+                                    cookies on this
+                                    website: Intercom, YouTube and Google Analytics. Intercom & YouTube are categorized
+                                    into
+                                    marketing cookies. Google Analytics is classified as functional cookies because the
+                                    data will be
+                                    anonymized.
+                                </p>
+                            </div>
+                        </div>
+                </section>
+                <!--  -->
+                <section class="section mobile-nopb this_titleTM">
+                    <div class="container-inner p-LR110 main_content">
+                        <div class="columns reveal">
+                            <div class="column q-12 pt-80">
+                                <div class="rev_cover2"></div>
+                                <div class="rev_cover"></div>
+                                <h2>
+                                    <span class="q_split">
+                                        <span class="q_split_wrap rev_item is_tGrad6">REFUSING COOKIES
+                                        </span>
+                                    </span>
+                                </h2>
+                                <p class="rev_scale is_tLeft is_tGradtext">
+                                    Most browsers allow you to refuse to accept cookies. In Internet Explorer, you can
+                                    refuse all cookies
+                                    by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all
+                                    cookies” using the sliding
+                                    selector. In Firefox, you can adjust your cookies settings by clicking “Tools”,
+                                    “Options” and “Privacy”.
+                                    Blocking cookies will have a negative impact upon the usability of some websites.
+
+                                </p>
+                            </div>
+                        </div>
+                </section>
+                <!--  -->
+                <footer id="footer">
+                    <section class="section">
+                        <div class="q-container container-inner reveal">
+                            <div class="columns">
+                                <div class="column q-1-2"></div>
+                                <div class="column q-1-2">
+                                    <a class="hover-target">
+                                        <p class="rev_scale">If you have a fashion in the field of designer, making a
+                                            based platform mobile and also have broad insights about blockchain and
+                                            cryptocurrency, DexSwap will exclusively invite you to join the chart of
+                                            the DexSwap Project core team.
+                                        </p>
+                                        <h1>
+                                            <span class="q_split">
+                                                <span class="q_split_wrap rev_item">email us to</span>
+                                            </span>
+                                            <span class="q_split">
+                                                <span class="q_split_wrap rev_item">gin.dropdisco@gmail.com</span>
+                                            </span>
+                                        </h1>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <a id="scrollTop" class="footer-box hover-target">
+                        <div class="arrow_rightS">
+                            <span class="arrow_bgs">
+                                <i>
+                                    <svg viewBox="0 0 13 42">
+                                        <g id="arr-down">
+                                            <polygon
+                                                points="6.2,42 0,35.6 0.8,34.9 6,40.3 6,0 7,0 7,40.3 12.2,34.9 13,35.6 6.8,42">
+                                            </polygon>
+                                        </g>
+                                    </svg>
+                                </i>
+                            </span>
+                        </div>
+                    </a>
+                </footer>
+
+            </div>
+        </div>
+    </div>
+    <div class='cursor' id="cursor"></div>
+    <div class='cursor2' id="cursor2"></div>
+    <div class='cursor3' id="cursor3"></div>
+    <script src="./javascript/index.js"></script>
+
+</body>
+
+</html>

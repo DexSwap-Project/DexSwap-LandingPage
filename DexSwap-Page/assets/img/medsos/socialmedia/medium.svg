@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96.82 96.82">
+    <defs>
+        <style>.cls-1,.cls-2{stroke:#00080c;stroke-miterlimit:10;}.cls-1{stroke-width:2px;fill:url(#New_Gradient_Swatch);}.cls-2{fill:#131313;}.cls-3{fill:url(#New_Gradient_Swatch-2);}</style>
+        <linearGradient id="New_Gradient_Swatch" x1="1" y1="49.59" x2="95.82" y2="49.59" gradientTransform="matrix(1, 0, 0, -1, 0, 98)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffe53b"/>
+            <stop offset="1" stop-color="#ff2525"/>
+        </linearGradient>
+        <linearGradient id="New_Gradient_Swatch-2" x1="28.99" y1="46.51" x2="69.31" y2="46.51" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#New_Gradient_Swatch"/>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <circle class="cls-1" cx="48.41" cy="48.41" r="47.41"/>
+            <circle class="cls-2" cx="48.41" cy="48.41" r="40.68"/>
+            <path class="cls-3" d="M59,69l-.1-20.5L51.59,65h-5L39.31,49.21V69H29V24H38.3L49.24,48,59.9,24h9.31l.1,45Z"/>
+        </g>
+    </g>
+</svg>
