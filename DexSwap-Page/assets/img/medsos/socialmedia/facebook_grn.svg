@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 96.82 96.82">
+    <defs>
+        <style>.a,.b{stroke:#00080c;stroke-miterlimit:10;}.a{stroke-width:2px;fill:url(#a);}.b{fill:#131313;}.c{fill:url(#b);}</style>
+        <linearGradient id="a" x1="1" y1="48.41" x2="95.82" y2="48.41" gradientTransform="translate(0.11 -0.11) rotate(0.13)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffe53b"/>
+            <stop offset="1" stop-color="#ff2525"/>
+        </linearGradient>
+        <linearGradient id="b" x1="36.42" y1="49.25" x2="60.36" y2="49.25" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    </defs>
+    <title>facebook_grn</title>
+    <circle class="a" cx="48.41" cy="48.41" r="47.41" transform="translate(-0.11 0.11) rotate(-0.13)"/>
+    <circle class="b" cx="48.41" cy="48.41" r="40.68"/>
+    <path class="c" d="M41.85,75.18H52.29V49h7.29l.78-8.76H52.29v-5c0-2.07.42-2.88,2.41-2.88h5.66V23.32H53.12c-7.77,0-11.27,3.42-11.27,10v7H36.42v8.87h5.43Z"/>
+</svg>

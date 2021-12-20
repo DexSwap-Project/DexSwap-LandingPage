@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>DexSwap Project | Official Website</title>
+        <meta name="robots" content="follow">
+        <meta name="author" content="DexSwap Project">
+        <meta name="description" content="DexSwap - leading decentralized crypto trading protocol" />
+        <meta name="copyright" content="2019">
+        <meta name="description" content="DexSwap - leading decentralized crypto trading protocol">
+        <meta name="keywords"
+            content="DexSwap, crypto mobile minning application, crypto advertise, youtube ads, harmony, harmony grants, zooHarmony, DexSwap AMM, adsense blockchain, blockchain advertise, blockchian ads,Cryptocurrency, Crypto, Invest, Crypto made easy, Exchange, All in one, Platform, Mining Application, Blockchain mining Aplication">
+        <meta property="og:title" content="DexSwap - leading decentralized crypto trading protocol" />
+        <meta property="og:site_name" content="DexSwap - leading decentralized crypto trading protocol" />
+        <meta property="og:description"
+            content="DexSwap leading crypto advertising network. leading decentralized crypto trading protocol" />
+        <meta name="twitter:site" content="@DexSwap">
+        <meta name="twitter:creator" content="@DexSwap">
+        <meta name="twitter:title" content="DexSwap - leading decentralized crypto trading protocol">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2ed4ea">
+        <meta name="msapplication-TileColor" content="#00bcd4">
+        <meta name="theme-color" content="#2ed4ea">
+        <link href="./assets/css/front.css" rel="stylesheet" />
+    
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140824798-1"></script>
+    
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'UA-140824798-1');
+        </script>
+    
+    </head>
+
+
+<body data-delgo-mousemove="true" data-delgo-scroller="true" class="ajax-slider  do-effect-scroll ajax-menu">
+
+<!--  -->
+<div id="is_load">
+    <div class="table">
+        <div id="let_animloader">
+            <div class="txt-loading"></div>
+        </div>
+        <div id="preloader">
+            <div class="txt">
+                <p class="txt-perc">0%</p>
+                <div class="progress"><span></span></div>
+            </div>
+        </div>
+        <div class="table-cell">
+            <div id="cookies">
+                <p>
+                    <span class="span_block">
+                        <span class="span_block_copy">
+                            <span class="txt">This is the begining to explore <span class="color-lazio">  DexSwap Project </span> in <span
+                                    class="color-lazio"> Harmony Network</span> 
+                            </span>
+                        </span>
+                    </span>
+                    <span class="span_block2">
+                        <span class="pdf_cookies">
+                            <a href="./assets/utility/cookies" target="_blank">
+                                <span>read more</span>
+                            </a>
+                        </span>
+                    </span>
+                </p>
+            </div>
+            <div class="cookies__accept">
+                <button class="shadow_acc shad_acc">
+                    <span class="shad_square">
+                        <span class="accline" id="eltop"></span>
+                        <span class="accline" id="elright"></span>
+                        <span class="icon-accept" id="elclose"></span>
+                        <span class="accline" id="elbot"></span>
+                        <span class="accline" id="elleft"></span>
+                    </span>
+                </button>
+                <span class="shad_label_acc">accept</span>
+            </div>
+            <div class="cookies__reject">
+                <button class="shadow_reject shad_reject">
+                    <span class="shad_square">
+                        <span class="line top"></span>
+                        <span class="line right"></span>
+                        <span class="icon icon-close"></span>
+                        <span class="line bottom"></span>
+                        <span class="line left"></span>
+                    </span>
+                </button>
+                <span class="shad_label_re">reject</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="cPanel">
+    <h1 class="logo">
+        <a href="/home" class="ajax_links">
+            <i class="delgoplus-icon">
+                <img src="./assets/allpct/logo.svg" alt="">
+            </i>
+            <span class="delgoplus-title">
+                <span class="let_char">dexswap project</span>
+            </span>
+        </a>
+    </h1>
+    <div class="overlayer on_mobile"></div>
+    <div id="hamb-icon">
+        <div class="hit-area">
+            <div class="nav-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <span class="let_char" id="menubase">
+                menu
+            </span>
+            <span class="let_char" id="baseclose">
+                close
+            </span>
+        </div>
+    </div>
+    <div id="hamb-icon-buy" class="do_buy_token">
+        <div class="hit-area">
+            <div class="nav-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <span class="let_char" id="menubase">
+                Roadmap
+            </span>
+            <span class="let_char" id="baseclose">
+                close
+            </span>
+        </div>
+    </div>
+</div>
+<section id="menu-container">
+    <div class="section-left" id="leftMnu">
+        <div class="box-l-1">
+            <nav class="menu">
+                <ul class="main_tab">
+                    <li>
+                        <button type="button">
+                            <a href="/project" class="ajax_links">
+                                <span class="let_char">projects</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="/team" class="ajax_links">
+                                <span class="let_char">team</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="/info" class="ajax_links">
+                                <span class="let_char">Information</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="/contact" class="ajax_links">
+                                <span class="let_char">contact</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button" class="this_resources">
+                            <a href="#">
+                                <span class=" let_char">resources</span>
+                            </a>
+                        </button>
+                    </li>
+                </ul>
+                <ul class="main_tab_sub">
+                    <li>
+                        <button type="button">
+                            <a href="https://harmony-dexswap.netlify.app" target="_blank" rel="noopener">
+                                <span class="let_char">DexSwap AMM</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="https://github.com/Agin-DropDisco/Grant-Harmony-Source/tree/main/DexSwap-AMM" target="_blank" rel="noopener">
+                                <span class="let_char">DexSwap Github</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="https://zooharmony.vercel.app" target="_blank" rel="noopener">
+                                <span class="let_char no_tr">Zoo Harmony</span>
+                            </a>
+                        </button>
+                    </li>
+                    <li>
+                        <button type="button">
+                            <a href="https://github.com/Agin-DropDisco/Grant-Harmony-Source/tree/main/ZooHarmony" target="_blank" rel="noopener">
+                                <span class="let_char">ZooHarmony Github</span>
+                            </a>
+                        </button>
+                    </li>
+                </ul>
+                <div id="ar_left">
+                    <button class="close_resource shad_resources">
+                        <span class="shad_square">
+                            <span class="line top"></span>
+                            <span class="line right"></span>
+                            <span class="icon icon-close"></span>
+                            <span class="line bottom"></span>
+                            <span class="line left"></span>
+                        </span>
+                    </button>
+                    <span class="shad_label_resources">back</span>
+                </div>
+            </nav>
+        </div>
+        <div class="box-l-2">
+            <div>
+                <div>
+                    <span class="let_char">
+                        2021 DEXSWAP PROJECT
+                    </span>
+                </div>
+                <div>
+                    <button type="button">
+                        <span class="let_char">
+                            Term of Use
+                        </span>
+                    </button>
+                    <button type="button">
+                        <span class="let_char">
+                            Privacy Policy
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <span class="social">
+            <span id="fb">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="insta">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="in">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="medium">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="github">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="twit">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+            <span id="contact">
+                <a href="#" target="_blank" rel="noopener noreferrer">
+                </a>
+            </span>
+        </span>
+    </div>
+    <div class="section-middle">
+        <div class="menu-left">
+            <div>
+                <h3>
+                    will be available<br /> on all major device
+                </h3>
+                <p>gin.dropdisco@gmail.com</p>
+            </div>
+        </div>
+        <div class="menu-right">
+            <a href="#">
+                <span>
+                    <i class="i-google-play">
+                        <svg viewBox="0 0 38 42">
+                            <g id="googleplay-icon">
+                                <path d="M21.1,21.4c-2.6-2.7-5.2-5.4-7.8-8C9.3,9.2,5.3,5.1,1.3,1C1,0.7,0.9,0.8,0.7,1C0.1,1.5,0,2.2,0,3C0,9,0,15,0,21.1h0
+                                                    c0,2.5,0,5.1,0,7.6c0,3.6,0,7.2,0,10.7C0,40.2,0.3,41,1,41.5c0.4,0.3,0.6,0.3,1-0.1C8.4,35,14.8,28.5,21.1,22.1
+                                                    C21.4,21.8,21.4,21.7,21.1,21.4z M22,20.7c0.3,0.3,0.4,0.2,0.6,0c1.8-1.8,3.6-3.7,5.5-5.5c0.3-0.3,0.3-0.4-0.1-0.6
+                                                    C19.8,9.9,11.6,5.2,3.5,0.6C3.1,0.4,2.8,0.3,2.3,0.3c0.1,0.1,0.2,0.2,0.2,0.3C9,7.3,15.5,14,22,20.7z M22.8,23.1
+                                                    c-0.3-0.3-0.5-0.4-0.9,0C16,29.1,10.1,35.2,4.1,41.3c0.1,0,0.2-0.2,0.3-0.2c7.6-4.2,15.2-8.5,22.8-12.7c0.4-0.2,0.3-0.3,0.1-0.6
+                                                    C25.8,26.2,24.3,24.7,22.8,23.1z M36.7,19.5c-2.3-1.3-4.6-2.6-6.8-3.9c-0.3-0.2-0.4-0.1-0.7,0.1c-1.9,1.9-3.8,3.9-5.8,5.8
+                                                    c-0.2,0.2-0.2,0.4,0,0.6c1.7,1.7,3.3,3.4,4.9,5.1c0.3,0.3,0.4,0.3,0.8,0.1c2.3-1.3,4.6-2.6,6.9-3.9c0.4-0.2,0.8-0.4,1.1-0.7
+                                                    c0.5-0.4,0.8-0.8,0.8-1.5C38,20.4,37.4,19.9,36.7,19.5z"></path>
+                            </g>
+                        </svg>
+                    </i>
+                </span>
+            </a>
+            <a href="#">
+                <span>
+                    <i class="i-app-store">
+                        <svg viewBox="0 0 48 52">
+                            <g id="appstore-icon">
+                            <path d="M 25 2 C 12.297 2 2 12.297 2 25 C 2 37.703 12.297 48 25 48 C 37.703 48 48 37.703 48 25 C 48 12.297 37.703 2 25 2 z M 25 4 C 34.494 4 42.525234 10.337 45.115234 19 L 43.013672 19 C 42.294672 16.849 41.198594 14.872625 39.808594 13.140625 C 38.500594 13.750625 37.045078 14.281078 35.455078 14.705078 C 35.888078 16.062078 36.246 17.495 36.5 19 L 34.476562 19 C 34.236562 17.651 33.910531 16.370156 33.519531 15.160156 C 31.167531 15.644156 28.616 15.918563 26 15.976562 L 26 19 L 24 19 L 24 15.976562 C 21.386 15.918563 18.835422 15.642203 16.482422 15.158203 C 16.090422 16.369203 15.763438 17.651953 15.523438 19.001953 L 13.501953 19.001953 C 13.755953 17.495953 14.113875 16.061125 14.546875 14.703125 C 12.955875 14.279125 11.496453 13.751578 10.189453 13.142578 C 8.8004531 14.873578 7.7053281 16.849 6.9863281 19 L 4.8847656 19 C 7.4747656 10.337 15.506 4 25 4 z M 24 6.1035156 C 22.756 6.3445156 21.554016 7.0319688 20.416016 8.1679688 C 19.133016 9.4499688 18.046594 11.204672 17.183594 13.263672 C 19.318594 13.683672 21.628 13.921563 24 13.976562 L 24 6.1035156 z M 26 6.1035156 L 26 13.976562 C 28.374 13.921563 30.681406 13.681719 32.816406 13.261719 C 31.944406 11.180719 30.843016 9.412 29.541016 8.125 C 28.416016 7.014 27.228 6.3425156 26 6.1035156 z M 18.707031 7.0820312 C 16.002031 8.0370312 13.578844 9.590125 11.589844 11.578125 C 12.697844 12.055125 13.910609 12.475359 15.224609 12.818359 C 16.144609 10.540359 17.317031 8.5700313 18.707031 7.0820312 z M 31.287109 7.0820312 C 32.680109 8.5710312 33.853391 10.539359 34.775391 12.818359 C 36.089391 12.475359 37.304109 12.057078 38.412109 11.580078 C 36.421109 9.5900781 33.995109 8.0370312 31.287109 7.0820312 z M 4 21 L 6.0996094 21 L 7.6308594 26.494141 L 9.4863281 21 L 11.925781 21 L 13.705078 26.587891 L 15.265625 21 L 17.328125 21 L 14.863281 29 L 12.6875 29 L 10.664062 23.019531 L 8.6484375 29 L 6.4257812 29 L 4 21 z M 18.335938 21 L 20.433594 21 L 21.964844 26.494141 L 23.822266 21 L 26.261719 21 L 28.041016 26.587891 L 29.599609 21 L 31.664062 21 L 29.199219 29 L 27.023438 29 L 25 23.019531 L 22.984375 29 L 20.759766 29 L 18.335938 21 z M 32.621094 21 L 34.728516 21 L 36.265625 26.494141 L 38.128906 21 L 40.576172 21 L 42.363281 26.587891 L 43.927734 21 L 46 21 L 43.523438 29 L 41.341797 29 L 39.310547 23.019531 L 37.287109 29 L 35.054688 29 L 32.621094 21 z M 34.476562 30.998047 L 36.498047 30.998047 C 36.244047 32.504047 35.886125 33.938875 35.453125 35.296875 C 37.044125 35.720875 38.503547 36.248422 39.810547 36.857422 C 41.199547 35.125422 42.295672 33.148047 43.013672 30.998047 L 45.115234 30.998047 C 42.525234 39.662047 34.494 46 25 46 C 15.506 46 7.4747656 39.663 4.8847656 31 L 6.9863281 31 C 7.7053281 33.151 8.8014062 35.127375 10.191406 36.859375 C 11.499406 36.249375 12.954922 35.718922 14.544922 35.294922 C 14.111922 33.937922 13.754 32.505 13.5 31 L 15.523438 31 C 15.763438 32.349 16.089469 33.629844 16.480469 34.839844 C 18.832469 34.355844 21.384 34.081437 24 34.023438 L 24 31 L 26 31 L 26 34.023438 C 28.614 34.081437 31.164578 34.357797 33.517578 34.841797 C 33.909578 33.630797 34.236563 32.348047 34.476562 30.998047 z M 24 36.023438 C 21.637 36.078437 19.34275 36.316422 17.21875 36.732422 C 18.86575 40.646422 21.289 43.352531 24 43.894531 L 24 36.023438 z M 26 36.023438 L 26 43.894531 C 27.244 43.653531 28.445984 42.966078 29.583984 41.830078 C 30.866984 40.549078 31.953406 38.795328 32.816406 36.736328 C 30.681406 36.316328 28.372 36.078438 26 36.023438 z M 34.775391 37.181641 C 33.855391 39.459641 32.682969 41.429969 31.292969 42.917969 C 33.997969 41.962969 36.421156 40.409875 38.410156 38.421875 C 37.302156 37.944875 36.089391 37.524641 34.775391 37.181641 z M 15.193359 37.189453 C 13.892359 37.530453 12.684937 37.943016 11.585938 38.416016 C 13.560937 40.391016 15.964438 41.937531 18.648438 42.894531 C 17.281437 41.424531 16.114359 39.475453 15.193359 37.189453 z"/>
+                            </g>
+                        </svg>
+                    </i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="section-right" id="rightMnu">
+        <div class="divider vertical_link"></div>
+        <div class="box-r-2">
+            <div>
+                <svg id="double_case1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 153.56 124.14"><defs><linearGradient id="linear-gradient" x1="31.1" y1="62.29" x2="123.94" y2="62.29" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1fc3ff"/><stop offset="1" stop-color="#6d8fff"/></linearGradient><radialGradient id="New_Gradient_Swatch_1" cx="86.01" cy="49.7" r="43.81" gradientTransform="matrix(-0.46, -0.76, 0.56, -0.31, 89.22, 143.94)" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-2" cx="31.11" cy="76.55" r="31.81" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-3" cx="17.37" cy="99.64" r="20.19" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-4" cx="44.46" cy="95.3" r="20.09" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-5" cx="127.67" cy="18.17" r="31.81" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-6" cx="113.93" cy="41.27" r="20.19" xlink:href="#linear-gradient"/><radialGradient id="New_Gradient_Swatch_1-7" cx="141.02" cy="36.92" r="20.09" xlink:href="#linear-gradient"/></defs><g style="isolation:isolate"><g id="double_case1" data-name="double case1"><g id="long_light" data-name="long light" style="opacity:0.55"><polygon points="98.06 23.62 31.1 61.25 55.79 74.37 55.79 100.95 122.36 63.96 123.94 38.79 98.06 23.62" style="fill:url(#linear-gradient)"/><polygon points="111.85 31.89 30.8 74.5 43.26 81.03 43.26 94.14 124.05 51.45 124.05 38.4 111.85 31.89" style="fill:url(#New_Gradient_Swatch_1)"/></g><path id="md-top" d="M60.06,74.93,31.67,91.48,3.06,74.93,31.67,58.6Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-2)"/><path id="md-left" d="M31.67,91.48v32.88L3.06,107.81V74.93Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-3)"/><path id="md-right" d="M31.67,91.48v32.88l28.39-16.55V74.93Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-4)"/><g style="mix-blend-mode:overlay"><path d="M35.14,106v3.4a2.55,2.55,0,0,0,1.08,2.08l2.89,1.69a2.06,2.06,0,0,0,2.26,0l2.8-1.69a2.55,2.55,0,0,0,1.08-2.08V106a2.31,2.31,0,0,0-1.08-2l-2.8-1.7a2.06,2.06,0,0,0-2.26,0L36.22,104A2.31,2.31,0,0,0,35.14,106Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M31.43,86.66c1.63,2.08,3.07,4,3.07,6.59s-1.44,5.09-2.88,7.64a17.13,17.13,0,0,0,1,1.9c.27.54.45,1.08.72,1.7h0c.9-7,5.42-10.57,6.41-16h0a40,40,0,0,0-5.33-5.78l-1.89-2c-2.89-2.89-5.24-6.14-5.33-10.84h0A14.1,14.1,0,0,1,27.83,66a14.1,14.1,0,0,0-2.35,7.94h0a15.13,15.13,0,0,0,3.34,9.57Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M34.78,113.66a11.71,11.71,0,0,1-1.18-2.89,12,12,0,0,1-.45-3.52h0a12.88,12.88,0,0,1,.18-2.63,28.1,28.1,0,0,0-1.69-3.6c-1.54-2.62-3-4.52-3-7.59s1.26-4.69,2.8-6.69a41.44,41.44,0,0,0,3-3.87,15.69,15.69,0,0,0,2.71-7,16.44,16.44,0,0,1-4.6,4.87c-1.18,1-2.44,1.81-3.7,2.7s-4.25,2.9-5.25,5.1c1.09,6.14,6.69,9.93,6.6,18.66a12.91,12.91,0,0,1-1.08,5.24h0a7.81,7.81,0,0,1,2.54-.36h.09a7.22,7.22,0,0,1,2.44.36Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M28.55,113.66C26.1,103.18,14.91,105.08,18.83,92c-.27,2.71,0,5.32,1.89,7.64A16.77,16.77,0,0,1,21,94.39h0a20.91,20.91,0,0,0,2.92,3.38h0c.72,3.06,2.08,5.41,4.7,6.23a13.25,13.25,0,0,1,.73,4.88,13.89,13.89,0,0,1-.85,4.69Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M44.53,92c.27,2.71,0,5.32-1.9,7.64a19.59,19.59,0,0,0-.36-5.24,16.45,16.45,0,0,1-2.89,3.34h0c-.72,3.07-2.08,5.42-4.7,6.23a15.26,15.26,0,0,0-.8,4.88,13.16,13.16,0,0,0,.9,4.69h0C37.21,103.18,48.41,105.08,44.53,92Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M38.2,80.88a10.41,10.41,0,0,1,1.63,5.69c.1,7.31-6.79,11-6.68,20.68a13,13,0,0,0,1.63,6.41h0a14.21,14.21,0,0,1-.9-4.78c0-10.76,9.83-10.93,9.75-19.06A9.47,9.47,0,0,0,38.2,80.88Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M29.77,110.59h0Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M32.56,102.82l.24.53a3.57,3.57,0,0,0-.19-.45Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M39,91.19C37.55,94.65,35,97.67,33.84,102,35.06,97.7,37.6,94.66,39,91.19Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M23.93,97.79c.71,3,2.05,5.34,4.6,6.18A17,17,0,0,0,23.93,97.79Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M34.36,112.85a13.2,13.2,0,0,1-.73-2,12.25,12.25,0,0,0,.62,1.76Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.58,110.67a12.78,12.78,0,0,1-.43-3.42A11.68,11.68,0,0,0,33.58,110.67Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M31.48,86.71l0,0c-1.54,2-2.8,3.62-2.8,6.69s1.38,4.87,2.87,7.39c1.43-2.52,3-5,3-7.57S33.09,88.77,31.48,86.71Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.15,107.25c0-.54,0-1,0-1.54A13.14,13.14,0,0,0,33.15,107.25Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M34.18,112.49l-.47-.14.44.13.3.57c-.07-.14-.14-.29-.2-.43Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M34.73,104c2.58-.83,3.92-3.14,4.64-6.16A17.39,17.39,0,0,0,34.73,104Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.88,108.54v0Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M34.27,105.43a13.72,13.72,0,0,0-.39,3.09A14.6,14.6,0,0,1,34.27,105.43Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.88,109v0Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.88,109.17a.28.28,0,0,1,0,.09A.28.28,0,0,0,33.88,109.17Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M33.9,109.48a.45.45,0,0,0,0,.11A.45.45,0,0,1,33.9,109.48Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M27.22,96.74a20.49,20.49,0,0,1,3,10.51,13.35,13.35,0,0,1-.37,3.21,13.31,13.31,0,0,0,.39-3.21A20.27,20.27,0,0,0,27.22,96.74Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M28.59,113.53a14.71,14.71,0,0,0,.76-4.65,13.64,13.64,0,0,1-.84,4.64l0,.12Z" transform="translate(-3.06 -0.22)" style="fill:none"/><path d="M44.17,104l-1.46-.89c-.77.81-1.66,1.55-2.55,2.33h.12a.35.35,0,0,1,.27.36v1.81h1.81c.18,0,.27.18.27.36s-.09.36-.27.36H40.55v1.78c0,.17-.09.35-.27.35a.35.35,0,0,1-.35-.35v-1.78H38.12a.35.35,0,0,1-.27-.36c0-.18.08-.36.27-.36h1.81V105.8a.52.52,0,0,1,0-.18,16,16,0,0,0-4.29,5.31,2.52,2.52,0,0,0,.55.53l2.89,1.69a2.06,2.06,0,0,0,2.26,0l2.8-1.69a2.55,2.55,0,0,0,1.08-2.08V106A2.31,2.31,0,0,0,44.17,104Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M39.93,105.8v1.81h.62V105.8a.35.35,0,0,0-.27-.36h-.12l-.2.18A.52.52,0,0,0,39.93,105.8Z" transform="translate(-3.06 -0.22)" style="fill:#1fc9ff"/><path d="M39.93,110.11a.35.35,0,0,0,.35.35c.18,0,.27-.18.27-.35v-1.78h-.62Z" transform="translate(-3.06 -0.22)" style="fill:#1fc9ff"/><path d="M38.12,107.61c-.19,0-.27.18-.27.36a.35.35,0,0,0,.27.36h4.24c.18,0,.27-.18.27-.36s-.09-.36-.27-.36H38.12Z" transform="translate(-3.06 -0.22)" style="fill:#1fc9ff"/><path d="M34.45,113.05l-.3-.57-.44-.13a7.73,7.73,0,0,0-2-.22h-.09a7.79,7.79,0,0,0-2.53.36,12.63,12.63,0,0,1-.57,1.17v0a10.16,10.16,0,0,0,3.07,1.26,11.42,11.42,0,0,0,3.07-1.26h.11C34.66,113.46,34.55,113.25,34.45,113.05Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M28.54,113.64v0l0-.13Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><polygon points="31.71 113.44 31.71 113.44 31.71 113.44 31.71 113.44" style="fill:#fff"/><path d="M32.52,80.75l0,0h0l0,0c-2.89-2.89-5.23-6.13-5.33-10.83h0C27.28,74.62,29.63,77.87,32.52,80.75Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M39.7,88.46h0a39.42,39.42,0,0,0-5.22-5.66h0A40,40,0,0,1,39.7,88.46Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M32.54,80.79h0l0,0c-2.89-2.88-5.24-6.13-5.33-10.83h0A14.17,14.17,0,0,1,27.83,66a14.1,14.1,0,0,0-2.35,7.94,15.13,15.13,0,0,0,3.34,9.57h0C30.1,82.6,31.36,81.78,32.54,80.79Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M34.48,82.8l0,.07a42.48,42.48,0,0,1-2.95,3.84c1.61,2.06,3,3.94,3,6.54s-1.55,5-3,7.57l.12.2c.33.59.64,1.19.92,1.8l0,.08a3.57,3.57,0,0,1,.19.45c.18.4.35.8.51,1.21a17.82,17.82,0,0,1,.53-2.56C35,97.67,37.55,94.65,39,91.19a12.94,12.94,0,0,0,.75-2.73A40,40,0,0,0,34.48,82.8Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M30.19,107.25a13.31,13.31,0,0,1-.39,3.21l0,.12h0a12.9,12.9,0,0,1-.65,1.9,7.79,7.79,0,0,1,2.53-.36h.09a7.73,7.73,0,0,1,2,.22l.47.14.07.13a12.25,12.25,0,0,1-.62-1.76,1.33,1.33,0,0,1-.05-.19,11.68,11.68,0,0,1-.43-3.42h0a13.14,13.14,0,0,1,0-1.54c0-.4.07-.78.12-1.15-.16-.41-.33-.81-.51-1.21l-.24-.53c-.28-.61-.59-1.21-.92-1.8l-.12-.2c-1.49-2.52-2.87-4.4-2.87-7.39s1.26-4.69,2.8-6.69l0,0a42.48,42.48,0,0,0,2.95-3.84l0-.07h0a15.71,15.71,0,0,0,2.66-6.87,16,16,0,0,1-4.59,4.85h0c-1.18,1-2.44,1.81-3.7,2.7h0c-1.26.89-4.17,2.85-5.2,5,.47,3,2.08,5.46,3.59,8.23A20.27,20.27,0,0,1,30.19,107.25Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M34.45,113.05c.1.2.21.41.33.61q-.22-.41-.42-.81l-.11-.23C34.31,112.76,34.38,112.91,34.45,113.05Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><polygon points="31.71 113.44 31.71 113.44 31.71 113.44 31.71 113.44" style="fill:#fff"/><path d="M23.92,97.77v0a17,17,0,0,1,4.6,6.18l.09,0a13.25,13.25,0,0,1,.73,4.88,14.71,14.71,0,0,1-.76,4.65l0,.13a12.63,12.63,0,0,0,.57-1.17,12.9,12.9,0,0,0,.65-1.9h0l0-.12a13.35,13.35,0,0,0,.37-3.21,20.49,20.49,0,0,0-3-10.51c-1.51-2.77-3.12-5.23-3.59-8.23a11.15,11.15,0,0,1-.14-1.94,10.42,10.42,0,0,1,1.62-5.69,9.47,9.47,0,0,0-5.43,8.94A8.15,8.15,0,0,0,21,94.44l0,0A20.91,20.91,0,0,0,23.92,97.77Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M28.54,113.64l0-.12v0l0,.07v0Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M28.62,104l-.09,0c-2.55-.84-3.89-3.16-4.6-6.18v0A20.91,20.91,0,0,1,21,94.39l0,0a17.07,17.07,0,0,0-.26,5.19c-1.89-2.32-2.16-4.93-1.89-7.64-3.9,13,7.17,11.21,9.68,21.53a13.64,13.64,0,0,0,.84-4.64A13.25,13.25,0,0,0,28.62,104Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M40,105.62l.2-.18c.89-.78,1.78-1.52,2.55-2.33,2.23-2.31,3.58-5.17,1.82-11.12.27,2.71,0,5.32-1.9,7.64a19.7,19.7,0,0,0-.34-5.14,20,20,0,0,1-2.92,3.3c-.72,3-2.06,5.33-4.64,6.16a11.69,11.69,0,0,0-.46,1.48,14.6,14.6,0,0,0-.39,3.09v.65a.28.28,0,0,1,0,.09,1.7,1.7,0,0,0,0,.22.45.45,0,0,0,0,.11,1,1,0,0,0,0,.17,13.24,13.24,0,0,0,.86,3.77,13.22,13.22,0,0,1,.89-2.6A16,16,0,0,1,40,105.62Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M33.9,109.48a1.7,1.7,0,0,1,0-.22.28.28,0,0,0,0-.09v-.65a13.72,13.72,0,0,1,.39-3.09,11.69,11.69,0,0,1,.46-1.48,17.39,17.39,0,0,1,4.64-6.16,20,20,0,0,0,2.92-3.3,8.15,8.15,0,0,0,1.34-4.67,9.47,9.47,0,0,0-5.43-8.94,10.41,10.41,0,0,1,1.63,5.69,11.49,11.49,0,0,1-.13,1.88h0A12.94,12.94,0,0,1,39,91.19C37.6,94.66,35.06,97.7,33.84,102a17.82,17.82,0,0,0-.53,2.56c-.05.37-.09.75-.12,1.15s0,1,0,1.54h0a12.78,12.78,0,0,0,.43,3.42,1.33,1.33,0,0,0,.05.19,13.2,13.2,0,0,0,.73,2q.2.41.42.81h0a14.12,14.12,0,0,1-.86-3.9,1,1,0,0,1,0-.17A.45.45,0,0,1,33.9,109.48Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/></g><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1-2"><path d="M49.74,93.39v-.74l1.8,1.56a1.3,1.3,0,0,1,0,2l-1.8,1.55v-.74l1.37-1.19a.82.82,0,0,0,0-1.28Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/><path d="M53.79,94.58a.82.82,0,0,0,0,1.28l1.38,1.19v.74l-1.81-1.55a1.3,1.3,0,0,1,0-2l1.81-1.56v.74Z" transform="translate(-3.06 -0.22)" style="fill:#fff"/></g></g><polygon points="8.74 93.47 9.02 93.75 5.46 97.56 8.88 97.56 8.88 97.95 4.51 97.95 8.74 93.47" style="fill:#fff"/><polygon points="7.72 93.46 3.52 97.93 3.25 97.65 6.78 93.85 3.39 93.85 3.39 93.46 7.72 93.46" style="fill:#fff"/><path id="md-top-2" data-name="md-top" d="M156.62,16.55,128.23,33.1,99.62,16.55,128.23.22Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-5)"/><path id="md-left-2" data-name="md-left" d="M128.23,33.1V66L99.62,49.43V16.55Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-6)"/><path id="md-right-2" data-name="md-right" d="M128.23,33.1V66l28.39-16.55V16.55Z" transform="translate(-3.06 -0.22)" style="fill:url(#New_Gradient_Swatch_1-7)"/><path id="Shape" d="M137.38,22A6.17,6.17,0,0,0,131.1,28v6.7c-.65,0-1.31.07-2,.07s-1.35,0-2,.06V28a6.28,6.28,0,0,0-12.55,0v16a6.28,6.28,0,0,0,12.55,0v-6.7c.65-.05,1.31-.07,2-.07s1.34,0,2-.07v6.84a6.28,6.28,0,0,0,12.55,0V28A6.17,6.17,0,0,0,137.38,22Zm-16.54,2.48a3.64,3.64,0,0,1,3.7,3.57v7.1a21.25,21.25,0,0,0-5.33,1.45,9.89,9.89,0,0,0-2.07,1.2V28A3.64,3.64,0,0,1,120.84,24.46Zm3.7,19.59a3.71,3.71,0,0,1-7.41,0h0V42.44c0-1.42,1.16-2.76,3.12-3.6a18.61,18.61,0,0,1,4.29-1.21v6.42Zm12.84,3.57a3.65,3.65,0,0,1-3.71-3.57V37A21.9,21.9,0,0,0,139,35.49a9.6,9.6,0,0,0,2.06-1.19v9.75a3.63,3.63,0,0,1-3.69,3.57ZM138,33.23a18.84,18.84,0,0,1-4.3,1.21V28a3.71,3.71,0,0,1,7.41,0h0v1.6C141.08,31.05,139.92,32.39,138,33.23Z" transform="translate(-3.06 -0.22)" style="fill:#fff;mix-blend-mode:overlay"/></g></g></svg>
+            </div>
+        </div>
+        <div class="box-r-3">
+            <div>
+                <div>
+                    <span>
+                        <a href="#">
+                            <span class="let_char width80">
+                                <span class="char_title">ZooHarmony</span>
+                                <span class="info_icn">i</span>
+                                <span class="char_title2">DexSwap AMM</span>
+                                <span class="info_icn2">i</span>
+                                <p id="let_show_off">ZooHarmony provides a dual farming experience while embracing the popular crypto trend of NFTs. The project complements another existing DexSwap Dapp
+                                <p id="let_show_off2">DexSwap is a Decentralized Protocol Optimizer for multiple exchanges</p>
+                                </p>
+                            </span>
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="box-r-4">
+            <div>
+                <p>
+                    <span>
+                        <span class="color-lazio let_char">DexSwap</span>
+                        <span class="let_char">Has Come to Help You
+                        </span>
+                    </span>
+                    <span>
+                        <span class="bot_center let_char color-lazio">Why dont you try?</span>
+                        <span class="let_char">it's free</span>
+                        <br />
+                        <span class="bot_center let_char"></span>
+                </p>
+                <p>
+                    <a href="https://zooharmony.vercel.app" target="_blank" rel="noopener" class="app-btn">
+                        <i class="i-app-link">
+                            <svg viewBox="0 0 136 38">
+                                <g id="app-store">
+                                    <!--  -->
+                                    <path
+                                    d="M43.76,8.5h-1.4l-.8-2.4H39l-.7,2.4H37L39.56.4h1.6Zm-2.4-3.4L40.66,3a12.74,12.74,0,0,1-.4-1.5h0c-.1.3-.2.9-.4,1.5l-.7,2.1Z" />
+                                <path d="M50.26,2.7l-2.2,5.8h-1.3l-2.1-5.8h1.4l1,3.1a8.74,8.74,0,0,1,.4,1.5h0c.1-.4.2-.9.4-1.5l1-3.1Z" />
+                                <path
+                                    d="M55,8.5l-.1-.7h0a2.15,2.15,0,0,1-1.7.8A1.71,1.71,0,0,1,51.36,7V6.9c0-1.4,1.2-2.2,3.4-2.2V4.6c0-.8-.4-1.1-1.2-1.1a2.35,2.35,0,0,0-1.5.4l-.3-.9a4,4,0,0,1,2-.5,2.1,2.1,0,0,1,2.3,2.4V7a6,6,0,0,0,.1,1.4Zm-.2-2.9c-1.4,0-2.2.3-2.2,1.2a.84.84,0,0,0,.78.9h.12a1.24,1.24,0,0,0,1.3-1.18V5.6Z" />
+                                <path d="M58.86,1.7a.8.8,0,1,1,.8-.8h0C59.76,1.4,59.36,1.7,58.86,1.7Zm.7,6.8h-1.3V2.7h1.3Z" />
+                                <path d="M63.16,8.5h-1.3V0h1.3Z" />
+                                <path
+                                    d="M68.66,8.5l-.1-.7h0a2.15,2.15,0,0,1-1.7.8A1.71,1.71,0,0,1,65.06,7V6.9c0-1.4,1.2-2.2,3.4-2.2V4.6c0-.8-.4-1.1-1.2-1.1a2.35,2.35,0,0,0-1.5.4l-.3-.9a4,4,0,0,1,2-.5,2.1,2.1,0,0,1,2.3,2.4V7a6,6,0,0,0,.1,1.4h-1.2Zm-.2-2.9c-1.4,0-2.1.3-2.1,1.2a.84.84,0,0,0,.78.9h.12a1.24,1.24,0,0,0,1.3-1.18V5.6Z" />
+                                <path
+                                    d="M75,8.6a1.9,1.9,0,0,1-1.8-1h0l-.1.9H72V0h1.3V3.5h0a2.14,2.14,0,0,1,1.9-1c1.4,0,2.4,1.2,2.4,2.9C77.56,7.3,76.46,8.6,75,8.6Zm-.2-5a1.45,1.45,0,0,0-1.4,1.5h0v1a1.45,1.45,0,0,0,1.4,1.5h0c1,0,1.5-.8,1.5-2S75.66,3.6,74.76,3.6Z" />
+                                <path d="M80.76,8.5h-1.3V0h1.3Z" />
+                                <path
+                                    d="M87.76,5.9h-3.9a1.66,1.66,0,0,0,1.59,1.71h.21a4.17,4.17,0,0,0,1.6-.3l.2.9a6,6,0,0,1-2,.4,2.73,2.73,0,0,1-2.9-2.55,2,2,0,0,1,0-.35,2.83,2.83,0,0,1,2.53-3.09h.27c1.5,0,2.4,1.1,2.4,2.8A.45.45,0,0,1,87.76,5.9ZM86.66,5a1.33,1.33,0,0,0-1.13-1.49h-.17A1.52,1.52,0,0,0,84,5Z" />
+                                <path
+                                    d="M95.66,8.6a2.79,2.79,0,0,1-2.81-2.77,1.77,1.77,0,0,1,0-.23,2.85,2.85,0,0,1,2.57-3.09h.33a2.72,2.72,0,0,1,2.81,2.65,2.08,2.08,0,0,1,0,.35A2.85,2.85,0,0,1,96,8.59Zm0-5.1c-.9,0-1.5.9-1.5,2.1s.6,2.1,1.5,2.1,1.5-.9,1.5-2.1S96.56,3.5,95.66,3.5Z" />
+                                <path
+                                    d="M105.46,8.5h-1.3V5.2q0-1.5-1.2-1.5a1.34,1.34,0,0,0-1.3,1.38V8.6h-1.3v-6h1.1l.1.9h0a2.12,2.12,0,0,1,1.8-1c1.2,0,2,.9,2,2.5V8.5Z" />
+                                <path
+                                    d="M114,3.6h-1.4V6.4c0,.7.3,1.1.8,1.1a1.23,1.23,0,0,0,.6-.1v1a3.07,3.07,0,0,1-1,.1c-1,0-1.6-.6-1.6-2V3.6h-.8v-1h.8v-1l1.3-.4V2.6h1.4v1Z" />
+                                <path
+                                    d="M120.86,8.5h-1.3V5.2c0-1-.4-1.6-1.2-1.6a1.28,1.28,0,0,0-1.3,1.28.48.48,0,0,0,0,.12V8.5h-1.3V0h1.3V3.5h0a2,2,0,0,1,1.7-.9c1.2,0,2,1,2,2.5V8.5Z" />
+                                <path
+                                    d="M127.46,5.9h-3.9a1.66,1.66,0,0,0,1.59,1.71h.21a4.17,4.17,0,0,0,1.6-.3l.2.9a5.49,5.49,0,0,1-2,.4,2.73,2.73,0,0,1-2.9-2.55,2,2,0,0,1,0-.35,2.83,2.83,0,0,1,2.53-3.09h.27c1.5,0,2.4,1.1,2.4,2.8Zm-1.2-.9a1.33,1.33,0,0,0-1.13-1.49H125a1.52,1.52,0,0,0-1.4,1.5Z" />
+                                <path
+                                    d="M77.36,22.12a2.86,2.86,0,0,0-2.73,2.24,4.27,4.27,0,0,0-.1.8v2a3.55,3.55,0,0,0,.08.73A2.81,2.81,0,0,0,77.36,30c1.92,0,3.09-1.53,3.09-4C80.45,23.88,79.42,22.12,77.36,22.12Z"
+                                    style="fill:none" />
+                                <path d="M63.57,21.82c-1.89,0-2.68,1.73-2.82,3h5.36C66.12,23.66,65.63,21.82,63.57,21.82Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M107.82,22.15a2.89,2.89,0,0,0-2.75,2.28,3.33,3.33,0,0,0-.11.77v1.87a4,4,0,0,0,.09.84,2.77,2.77,0,0,0,2.7,2.15c2,0,3.1-1.62,3.1-4C110.85,23.9,109.8,22.15,107.82,22.15Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M92.26,17.76H92.2c-.24,1-.5,2.16-.8,3.16l-1.3,4.16h4.34l-1.33-4.15C92.79,19.89,92.51,18.74,92.26,17.76Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M122.45,22.15a3.11,3.11,0,0,0-2.86,3.05v1.87a3.42,3.42,0,0,0,.08.84,2.8,2.8,0,0,0,2.7,2.15c2,0,3.1-1.62,3.1-4C125.47,23.9,124.42,22.15,122.45,22.15Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M52.72,22.93c-.44,2.06-.84,4-1.14,5.84h0c-.25-1.82-.61-3.71-1-5.7l-1.67-7.75H45.6l-1.81,7.62c-.49,2.12-1,4.13-1.22,5.89h-.06c-.28-1.66-.68-3.81-1.09-5.86l-1.61-7.65H36.53l4.11,16.85H44l2-7.93a53.82,53.82,0,0,0,1.11-5.34h0a53.77,53.77,0,0,0,1,5.33l1.74,7.94h3.29l4.54-16.85H54.47Z" />
+                                <path
+                                    d="M63.76,19.72c-3.91,0-6,3.18-6,6.54,0,3.73,2.31,6.17,6.26,6.17a11.11,11.11,0,0,0,4.34-.77l-.46-2.12a9.41,9.41,0,0,1-3.36.56c-2,0-3.67-1-3.75-3.17h8.13A6.6,6.6,0,0,0,69,25.6C69,23,67.72,19.72,63.76,19.72Zm-3,5.07c.14-1.24.93-3,2.82-3,2.06,0,2.55,1.84,2.54,3Z" />
+                                <path
+                                    d="M78.5,19.72a4.36,4.36,0,0,0-3.89,2h0V14.42H71.49V28.75c0,1.25,0,2.6-.1,3.42H74l.13-1.83h.06A4.16,4.16,0,0,0,78,32.44c2.76,0,5.53-2.17,5.53-6.55C83.59,22.18,81.47,19.72,78.5,19.72ZM77.36,30a2.81,2.81,0,0,1-2.72-2.15,3.55,3.55,0,0,1-.08-.73v-2a4.27,4.27,0,0,1,.1-.8,2.86,2.86,0,0,1,2.7-2.21c2,0,3.06,1.76,3.06,3.9C80.45,28.48,79.28,30,77.36,30Z" />
+                                <path
+                                    d="M90.36,15.32,85,32.17h3.2l1.44-4.76H95l1.52,4.76h3.31L94.3,15.32Zm-.28,9.76,1.28-4.16c.3-1,.56-2.17.8-3.16h.06c.25,1,.53,2.13.85,3.17l1.33,4.15Z" />
+                                <path
+                                    d="M108.86,19.72a4.7,4.7,0,0,0-4.17,2.15h0L104.54,20h-2.7c0,1.14.1,2.45.1,4V37.12H105v-6.3h0a4,4,0,0,0,3.42,1.62c2.77,0,5.54-2.11,5.54-6.53C114,22.11,111.65,19.72,108.86,19.72Zm-1.11,10.34a2.77,2.77,0,0,1-2.7-2.15,4,4,0,0,1-.09-.84V25.2a3.33,3.33,0,0,1,.11-.77,2.89,2.89,0,0,1,2.75-2.28c2,0,3,1.75,3,3.9C110.85,28.44,109.7,30.06,107.75,30.06Z" />
+                                <path
+                                    d="M123.49,19.72a4.7,4.7,0,0,0-4.13,2.15h0L119.2,20h-2.7c.06,1.14.1,2.45.1,4V37.12h3.08v-6.3h0a4,4,0,0,0,3.42,1.62c2.77,0,5.53-2.11,5.53-6.53C128.59,22.11,126.28,19.72,123.49,19.72Zm-1.13,10.34a2.8,2.8,0,0,1-2.7-2.15,3.42,3.42,0,0,1-.08-.84V25.2a3.11,3.11,0,0,1,2.86-3.05c2,0,3,1.75,3,3.9C125.47,28.44,124.36,30.06,122.36,30.06Z" />
+                                <path
+                                    d="M30.73,2.94l1.52,1.71L12.35,28.26H31.49v2.41H7.05ZM25,2.85,1.53,30.57,0,28.85,19.77,5.26H.77V2.85Z" />
+                                
+                                    <!--  -->
+                                </g>
+                            </svg>
+                        </i>
+                    </a>
+                    <a href="https://harmony-dexswap.netlify.app" target="_blank" rel="noopener"class="app-btn">
+                        <i class="i-app-link">
+                            <svg viewBox="0 0 136 38">
+                                <g id="google-play">
+                                    <!--  -->
+                                    <path
+                                    d="M42.76,8.5h-1.4l-.8-2.4H38l-.7,2.4H36L38.56.4h1.6Zm-2.4-3.4L39.66,3a12.74,12.74,0,0,1-.4-1.5h0c-.1.3-.2.9-.4,1.5l-.7,2.1Z" />
+                                <path d="M49.26,2.7l-2.2,5.8h-1.3l-2.1-5.8h1.4l1,3.1a8.74,8.74,0,0,1,.4,1.5h0c.1-.4.2-.9.4-1.5l1-3.1Z" />
+                                <path
+                                    d="M54,8.5l-.1-.7h0a2.15,2.15,0,0,1-1.7.8A1.71,1.71,0,0,1,50.36,7V6.9c0-1.4,1.2-2.2,3.4-2.2V4.6c0-.8-.4-1.1-1.2-1.1a2.35,2.35,0,0,0-1.5.4l-.3-.9a4,4,0,0,1,2-.5,2.1,2.1,0,0,1,2.3,2.4V7a6,6,0,0,0,.1,1.4Zm-.2-2.9c-1.4,0-2.2.3-2.2,1.2a.84.84,0,0,0,.78.9h.12a1.24,1.24,0,0,0,1.3-1.18V5.6Z" />
+                                <path d="M57.86,1.7a.8.8,0,1,1,.8-.8h0C58.76,1.4,58.36,1.7,57.86,1.7Zm.7,6.8h-1.3V2.7h1.3Z" />
+                                <path d="M62.16,8.5h-1.3V0h1.3Z" />
+                                <path
+                                    d="M67.66,8.5l-.1-.7h0a2.15,2.15,0,0,1-1.7.8A1.71,1.71,0,0,1,64.06,7V6.9c0-1.4,1.2-2.2,3.4-2.2V4.6c0-.8-.4-1.1-1.2-1.1a2.35,2.35,0,0,0-1.5.4l-.3-.9a4,4,0,0,1,2-.5,2.1,2.1,0,0,1,2.3,2.4V7a6,6,0,0,0,.1,1.4h-1.2Zm-.2-2.9c-1.4,0-2.1.3-2.1,1.2a.84.84,0,0,0,.78.9h.12a1.24,1.24,0,0,0,1.3-1.18V5.6Z" />
+                                <path
+                                    d="M74,8.6a1.9,1.9,0,0,1-1.8-1h0l-.1.9H71V0h1.3V3.5h0a2.14,2.14,0,0,1,1.9-1c1.4,0,2.4,1.2,2.4,2.9C76.56,7.3,75.46,8.6,74,8.6Zm-.2-5a1.45,1.45,0,0,0-1.4,1.5h0v1a1.45,1.45,0,0,0,1.4,1.5h0c1,0,1.5-.8,1.5-2S74.66,3.6,73.76,3.6Z" />
+                                <path d="M79.76,8.5h-1.3V0h1.3Z" />
+                                <path
+                                    d="M86.76,5.9h-3.9a1.66,1.66,0,0,0,1.59,1.71h.21a4.17,4.17,0,0,0,1.6-.3l.2.9a6,6,0,0,1-2,.4,2.73,2.73,0,0,1-2.9-2.55,2,2,0,0,1,0-.35,2.83,2.83,0,0,1,2.53-3.09h.27c1.5,0,2.4,1.1,2.4,2.8A.45.45,0,0,1,86.76,5.9ZM85.66,5a1.33,1.33,0,0,0-1.13-1.49h-.17A1.52,1.52,0,0,0,83,5Z" />
+                                <path
+                                    d="M94.66,8.6a2.79,2.79,0,0,1-2.81-2.77,1.77,1.77,0,0,1,0-.23,2.85,2.85,0,0,1,2.57-3.09h.33a2.72,2.72,0,0,1,2.81,2.65,2.08,2.08,0,0,1,0,.35A2.85,2.85,0,0,1,95,8.59Zm0-5.1c-.9,0-1.5.9-1.5,2.1s.6,2.1,1.5,2.1,1.5-.9,1.5-2.1S95.56,3.5,94.66,3.5Z" />
+                                <path
+                                    d="M104.46,8.5h-1.3V5.2q0-1.5-1.2-1.5a1.34,1.34,0,0,0-1.3,1.38V8.6h-1.3v-6h1.1l.1.9h0a2.12,2.12,0,0,1,1.8-1c1.2,0,2,.9,2,2.5V8.5Z" />
+                                <path
+                                    d="M113,3.6h-1.4V6.4c0,.7.3,1.1.8,1.1a1.23,1.23,0,0,0,.6-.1v1a3.07,3.07,0,0,1-1,.1c-1,0-1.6-.6-1.6-2V3.6h-.8v-1h.8v-1l1.3-.4V2.6h1.4v1Z" />
+                                <path
+                                    d="M119.86,8.5h-1.3V5.2c0-1-.4-1.6-1.2-1.6a1.28,1.28,0,0,0-1.3,1.28.48.48,0,0,0,0,.12V8.5h-1.3V0h1.3V3.5h0a2,2,0,0,1,1.7-.9c1.2,0,2,1,2,2.5V8.5Z" />
+                                <path
+                                    d="M126.46,5.9h-3.9a1.66,1.66,0,0,0,1.59,1.71h.21a4.17,4.17,0,0,0,1.6-.3l.2.9a5.49,5.49,0,0,1-2,.4,2.73,2.73,0,0,1-2.9-2.55,2,2,0,0,1,0-.35,2.83,2.83,0,0,1,2.53-3.09h.27c1.5,0,2.4,1.1,2.4,2.8Zm-1.2-.9a1.33,1.33,0,0,0-1.13-1.49H124a1.52,1.52,0,0,0-1.4,1.5Z" />
+                                <path
+                                    d="M76.36,22.12a2.86,2.86,0,0,0-2.73,2.24,4.27,4.27,0,0,0-.1.8v2a3.55,3.55,0,0,0,.08.73A2.81,2.81,0,0,0,76.36,30c1.92,0,3.09-1.53,3.09-4C79.45,23.88,78.42,22.12,76.36,22.12Z"
+                                    style="fill:none" />
+                                <path d="M62.57,21.82c-1.89,0-2.68,1.73-2.82,3h5.36C65.12,23.66,64.63,21.82,62.57,21.82Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M106.82,22.15a2.89,2.89,0,0,0-2.75,2.28,3.33,3.33,0,0,0-.11.77v1.87a4,4,0,0,0,.09.84,2.77,2.77,0,0,0,2.7,2.15c2,0,3.1-1.62,3.1-4C109.85,23.9,108.8,22.15,106.82,22.15Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M91.26,17.76H91.2c-.24,1-.5,2.16-.8,3.16l-1.3,4.16h4.34l-1.33-4.15C91.79,19.89,91.51,18.74,91.26,17.76Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M121.45,22.15a3.11,3.11,0,0,0-2.86,3.05v1.87a3.42,3.42,0,0,0,.08.84,2.8,2.8,0,0,0,2.7,2.15c2,0,3.1-1.62,3.1-4C124.47,23.9,123.42,22.15,121.45,22.15Z"
+                                    style="fill:none" />
+                                <path
+                                    d="M51.72,22.93c-.44,2.06-.84,4-1.14,5.84h0c-.25-1.82-.61-3.71-1-5.7l-1.67-7.75H44.6l-1.81,7.62c-.49,2.12-1,4.13-1.22,5.89h-.06c-.28-1.66-.68-3.81-1.09-5.86l-1.61-7.65H35.53l4.11,16.85H43l2-7.93a53.82,53.82,0,0,0,1.11-5.34h0a53.77,53.77,0,0,0,1,5.33l1.74,7.94h3.29l4.54-16.85H53.47Z" />
+                                <path
+                                    d="M62.76,19.72c-3.91,0-6,3.18-6,6.54,0,3.73,2.31,6.17,6.26,6.17a11.11,11.11,0,0,0,4.34-.77l-.46-2.12a9.41,9.41,0,0,1-3.36.56c-2,0-3.67-1-3.75-3.17h8.13A6.6,6.6,0,0,0,68,25.6C68,23,66.72,19.72,62.76,19.72Zm-3,5.07c.14-1.24.93-3,2.82-3,2.06,0,2.55,1.84,2.54,3Z" />
+                                <path
+                                    d="M77.5,19.72a4.36,4.36,0,0,0-3.89,2h0V14.42H70.49V28.75c0,1.25,0,2.6-.1,3.42H73l.13-1.83h.06A4.16,4.16,0,0,0,77,32.44c2.76,0,5.53-2.17,5.53-6.55C82.59,22.18,80.47,19.72,77.5,19.72ZM76.36,30a2.81,2.81,0,0,1-2.72-2.15,3.55,3.55,0,0,1-.08-.73v-2a4.27,4.27,0,0,1,.1-.8,2.86,2.86,0,0,1,2.7-2.21c2,0,3.06,1.76,3.06,3.9C79.45,28.48,78.28,30,76.36,30Z" />
+                                <path
+                                    d="M89.36,15.32,84,32.17h3.2l1.44-4.76H94l1.52,4.76h3.31L93.3,15.32Zm-.28,9.76,1.28-4.16c.3-1,.56-2.17.8-3.16h.06c.25,1,.53,2.13.85,3.17l1.33,4.15Z" />
+                                <path
+                                    d="M107.86,19.72a4.7,4.7,0,0,0-4.17,2.15h0L103.54,20h-2.7c0,1.14.1,2.45.1,4V37.12H104v-6.3h0a4,4,0,0,0,3.42,1.62c2.77,0,5.54-2.11,5.54-6.53C113,22.11,110.65,19.72,107.86,19.72Zm-1.11,10.34a2.77,2.77,0,0,1-2.7-2.15,4,4,0,0,1-.09-.84V25.2a3.33,3.33,0,0,1,.11-.77,2.89,2.89,0,0,1,2.75-2.28c2,0,3,1.75,3,3.9C109.85,28.44,108.7,30.06,106.75,30.06Z" />
+                                <path
+                                    d="M122.49,19.72a4.7,4.7,0,0,0-4.13,2.15h0L118.2,20h-2.7c.06,1.14.1,2.45.1,4V37.12h3.08v-6.3h0a4,4,0,0,0,3.42,1.62c2.77,0,5.53-2.11,5.53-6.53C127.59,22.11,125.28,19.72,122.49,19.72Zm-1.13,10.34a2.8,2.8,0,0,1-2.7-2.15,3.42,3.42,0,0,1-.08-.84V25.2a3.11,3.11,0,0,1,2.86-3.05c2,0,3,1.75,3,3.9C124.47,28.44,123.36,30.06,121.36,30.06Z" />
+                                <path id="Layer_2-2" data-name="Layer 2"
+                                    d="M0,5.52V.9l10.34,9.67a8.52,8.52,0,0,1,0,12.61L0,32.86V28.24l7.87-7.37a5.38,5.38,0,0,0,0-8Zm23.18,7.37a5.38,5.38,0,0,0,0,8l7.87,7.37v4.62L20.71,23.18a8.52,8.52,0,0,1,0-12.61L31.05.9V5.52Z" />
+                            
+                                    <!--  -->
+                                </g>
+                            </svg>
+                        </i>
+                    </a>
+                </p>
+            </div>
+        </div>
+        <div class="divider horizontal_link"></div>
+        <div class="divider vertical_link_right"></div>
+    </div>
+
+</section>
+
+<div class="divider vertical_line" id="thisvert"></div>
+<div class="site-header">
+    <div class="extend-container">
+        <div id="delgo_uiles">
+            <div class="left_uiles uiles">
+                <div class="sm_uiles top"></div>
+                <div class="mid_uiles"></div>
+                <div class="sm_uiles bot"></div>
+            </div>
+            <div class="right_uiles uiles">
+                <div class="sm_uiles top"></div>
+                <div class="mid_uiles"></div>
+                <div class="sm_uiles bot"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<section id="holder_token">
+    <div class="section-left this_onboard" id="leftboard">
+        <div class="box-l-1">
+            <div class="holder_token_header">
+                <h2 class="token_header_inner">
+                    <span class="let_char">
+                    </span>
+                </h2>
+                <span class="section__tag">
+                    <span class="let_char">
+                        Build Plans of DexSwap Project
+                    </span>
+                </span>
+            </div>
+            <div class="arrow_rightS">
+                <span class="arrow_bgs">
+                    <i>
+                        <svg viewBox="0 0 13 42">
+                            <g id="arr-down">
+                                <polygon
+                                    points="6.2,42 0,35.6 0.8,34.9 6,40.3 6,0 7,0 7,40.3 12.2,34.9 13,35.6 6.8,42">
+                                </polygon>
+                            </g>
+                        </svg>
+                    </i>
+                </span>
+            </div>
+        </div>
+        <div class="box-l-2">
+            <ul class="token_header_list tab_sesions">
+                <li class="tokenize_item tab-link is-active" data-tab-link="1">
+                    <div class="tokenize_item-content">
+                        <div class="tokenize_item-icon">
+                            <svg id="square" viewBox="0 0 16.1 15.996">
+                                <path d="M16.1 15.996H0V0h16.1v15.996zm-14.1-2h12.1V2H2v11.996z"></path>
+                            </svg>
+                        </div>
+                        <div class="tokenize_item-number">
+                            <span>
+                                Q1 of 2022
+                            </span>
+                        </div>
+                        <div class="tokenize_item-info">
+                            <h3>
+                                <span>
+                                    Plans
+                                </span>
+                            </h3>
+                            <div class="tokenize_item-info-category">
+                                <span>DexSwap AMM</span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="tokenize_item tab-link" data-tab-link="2">
+                    <div class="tokenize_item-content">
+                        <div class="tokenize_item-icon">
+                            <svg id="circle" viewBox="0 0 15.19 15.189">
+                                <path
+                                    d="M7.595 15.189C3.407 15.189 0 11.782 0 7.595S3.407 0 7.595 0s7.595 3.407 7.595 7.595-3.407 7.594-7.595 7.594zM7.595 2C4.51 2 2 4.51 2 7.595s2.51 5.595 5.595 5.595 5.595-2.51 5.595-5.595S10.68 2 7.595 2z">
+                                </path>
+                            </svg>
+                        </div>
+                        <div class="tokenize_item-number">
+                            <span>
+                                Q2 of 2022
+                            </span>
+                        </div>
+                        <div class="tokenize_item-info">
+                            <h3>
+                                <span>
+                                    Plans
+                                </span>
+                            </h3>
+                            <div class="tokenize_item-info-category">
+                                <span> DexSwap AMM || ZooHarmony</span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="tokenize_item tab-link" data-tab-link="3">
+                    <div class="tokenize_item-content">
+                        <div class="tokenize_item-icon"><svg id="triangle" viewBox="0 0 17.682 15.354">
+                                <path
+                                    d="M0 15.354L8.827 0l8.855 15.327L0 15.354zM8.832 4.005L3.46 13.349l10.761-.017-5.389-9.327z">
+                                </path>
+                            </svg>
+                        </div>
+                        <div class="tokenize_item-number">
+                            <span>
+                                Q3 of 2022
+                            </span>
+                        </div>
+                        <div class="tokenize_item-info">
+                            <h3>
+                                <span>
+                                   Plans
+                                </span>
+                            </h3>
+                            <div class="tokenize_item-info-category">
+                                <span> DexSwap AMM || ZooHarmony</span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="tokenize_item tab-link" data-tab-link="4">
+                    <div class="tokenize_item-content">
+                        <div class="tokenize_item-icon"><svg id="rhombus" viewBox="0 0 18.986 18.984">
+                                <path
+                                    d="M9.493 18.984L0 9.492 9.493 0l9.493 9.492-9.493 9.492zM2.828 9.492l6.665 6.664 6.665-6.664-6.665-6.664-6.665 6.664z">
+                                </path>
+                            </svg>
+                        </div>
+                        <div class="tokenize_item-number">
+                            <span>
+                                Q4 of 2022
+                            </span>
+                        </div>
+                        <div class="tokenize_item-info">
+                            <h3>
+                                <span>
+                                    Plans
+                                </span>
+                            </h3>
+                            <div class="tokenize_item-info-category">
+                                <span>ZooHarmony</span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+        <div class="box-l-3">
+            <div class="progressbar" data-perc="4">
+                <div class="thisbar color">
+                    <span></span>
+                </div>
+                <div class="label">
+                    <span></span>
+                </div>
+                <div class="bot_line green-bullet"></div>
+                <div class="label_guaranted">
+                    <div class="bullet_style green-bullet"></div>
+                    <span class="let_char">
+                        
+                    </span>
+                </div>
+            </div>
+            <div class="do_goal">
+                <span class="let_char let_colorize">Fund requested /&NonBreakingSpace; usd 50,000 </span>
+            </div>
+
+        </div>
+    </div>
+    <div class="section-right this_onboard" id="rightboard">
+        <div class="box-r-1">
+            <div class="works__tabs tabs">
+                <a href="#" target="_blank" rel="noopener" class="works__tab tab is-active" data-tab="1">
+                    <div class="works__tab-bg-img letload" style="background-image: url(./assets/detailed-roadmap.png)">
+                    </div>
+                    <div class="works__tab-content">
+                        <div class="works__tab-link">
+                            <div class="banner_btn">
+                                <div class="blue-btn Delgo_btn_spark blue-btn-big">Harmony Proposal
+                                    <span class="coints"></span>
+                                    <span class="delgo_spark"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="#" target="_blank" rel="noopener" class="works__tab tab" data-tab="2">
+                    <div class="works__tab-bg-img letload" style="background-image: url(./assets/detailed-roadmap.png)">
+                    </div>
+                    <div class="works__tab-content">
+                        <div class="works__tab-link">
+                            <div class="banner_btn">
+                                <div class="blue-btn Delgo_btn_spark blue-btn-big">Harmony Proposal
+                                    <span class="coints"></span>
+                                    <span class="delgo_spark"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="#" target="_blank" rel="noopener" class="works__tab tab" data-tab="3">
+                    <div class="works__tab-bg-img letload" style="background-image: url(./assets/detailed-roadmap.png)">
+                    </div>
+                    <div class="works__tab-content">
+                        <div class="works__tab-link">
+                            <div class="banner_btn">
+                                <div class="blue-btn Delgo_btn_spark blue-btn-big">Harmony Proposal
+                                    <span class="coints"></span>
+                                    <span class="delgo_spark"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="#" target="_blank" rel="noopener" class="works__tab tab" data-tab="4">
+                    <div class="works__tab-bg-img letload" style="background-image: url(./assets/detailed-roadmap.png)">
+                    </div>
+                    <div class="works__tab-content">
+                        <div class="works__tab-link">
+                            <div class="banner_btn">
+                                <div class="blue-btn Delgo_btn_spark blue-btn-big">Harmony Proposal
+                                    <span class="coints"></span>
+                                    <span class="delgo_spark"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!--  -->
+
+
+    <main class="root">
+
+        <div class="shad_main">
+            <img src="./assets/img/centervline.png" class="shadow_vline shadow_vleft">
+            <img src="./assets/img/centervline.png" class="shadow_vline shadow_vright">
+        </div>
+        <header class="delgo-header-hero">
+            <div class="is_wBase">
+                <div class="wBase_t2 sml_text">
+                    <span class="let_char">Fund Informations</span>
+                </div>
+                <div class="wBase_t sml_text_tp">
+                    <span class="let_char">DexSwap Project</span>
+                </div>
+            </div>
+            <a href="#" class="hero__down">
+                <svg data-delgo-grid="parallax" version="1.1" xmlns="http://www.w3.org/2000/svg" width="18" height="28"
+                    viewBox="0 0 18 28">
+                    <path
+                        d="M16.797 11.5c0 0.125-0.063 0.266-0.156 0.359l-7.281 7.281c-0.094 0.094-0.234 0.156-0.359 0.156s-0.266-0.063-0.359-0.156l-7.281-7.281c-0.094-0.094-0.156-0.234-0.156-0.359s0.063-0.266 0.156-0.359l0.781-0.781c0.094-0.094 0.219-0.156 0.359-0.156 0.125 0 0.266 0.063 0.359 0.156l6.141 6.141 6.141-6.141c0.094-0.094 0.234-0.156 0.359-0.156s0.266 0.063 0.359 0.156l0.781 0.781c0.094 0.094 0.156 0.234 0.156 0.359z">
+                    </path>
+                </svg>
+            </a>
+        </header>
+
+        <div class="delgo-header-height"></div>
+        <div class="content-background"></div>
+
+
+        <div class="page-content">
+            <section class="iconomic_sale">
+                <div class="shad_main">
+                    <img src="./assets/img/centervline.png" class="shadow_vline shadow_vleft">
+                    <img src="./assets/img/centervline.png" class="shadow_vline shadow_vright">
+                </div>
+                <div class="wrapperico">
+                    <div class="section-left_tokensale">
+                        <div class="box-l-1">
+                            <div>
+                                <h2>
+                                    <span class="let_char let_colorize">
+                                        Project Name
+                                    </span>
+                                </h2>
+                                <p>
+                                    <span class="let_char">
+                                        DexSwap AMM & ZooHarmony
+                                    </span>
+                                </p>
+                                <h2>
+                                    <span class="let_char let_colorize">
+                                        token symbol
+                                    </span>
+                                </h2>
+                                <p>
+                                    <span class="let_char">
+                                        xDEXS & ZOO
+                                    </span>
+                                </p>
+                                <h2>
+                                    <span class="let_char let_colorize">
+                                        
+                                    </span>
+                                </h2>
+                                <p>
+                                    <span class="let_char">
+                                    </span>
+                                </p>
+                                <h2>
+                                    <span class="let_char let_colorize">
+                                    </span>
+                                </h2>
+                                <p>
+                                    <span class="let_char">
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="arrow_rightS">
+                                <span class="arrow_bgs">
+                                    <i>
+                                        <svg viewBox="0 0 13 42">
+                                            <g id="arr-down">
+                                                <polygon
+                                                    points="6.2,42 0,35.6 0.8,34.9 6,40.3 6,0 7,0 7,40.3 12.2,34.9 13,35.6 6.8,42">
+                                                </polygon>
+                                            </g>
+                                        </svg>
+                                    </i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="box-l-2">
+                            <div id="all_type_main">
+                                <div class="data-number">
+                                    <!-- t1 -->
+                                    <span class="let_char posminus_40" id="twarn_1">
+                                        1
+                                    </span>
+                                    <!-- t2 -->
+                                    <span class="let_char" id="twarn_2">
+                                        7
+                                    </span>
+                                    <!-- t3 -->
+                                    <span class="let_char abs__" id="twarn_3">
+                                        6
+                                    </span>
+                                    <!-- t2 -->
+                                    </span>
+                                    <div class="data-percents">
+                                        <span class="let_char">
+                                            %
+                                        </span>
+                                    </div>
+                                </div>
+                                <b>
+                                    <span class="let_char smlonmobile" id="twarn_1">
+                                        Budget Tracking
+                                    </span>
+                                    <!-- t2 -->
+                                    <span class="let_char abs__ smlonmobile" id="twarn_2">
+                                        workshop and mentoring
+                                    </span>
+                                    <!-- t3 -->
+                                    <span class="let_char rltv__ smlonmobile" id="twarn_3">
+                                        PLATFORM DEVELOPMENT
+                                    </span>
+                                </b>
+                                <h3>
+                                    <span class="let_char" id="twarn_1">
+                                        1% from Founder Alllocation
+                                    </span>
+                                    <!-- t2 -->
+                                    <span class="let_char abs__ smlonmobile" id="twarn_2">
+                                        7% from total Funds
+                                    </span>
+                                    <!-- t3 -->
+                                    <span class="let_char rltv__" id="twarn_3">
+                                        6% from Founder Alllocation
+                                    </span>
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="box-thisblck"></div>
+                        <div class="box-l-nav">
+                            <div>
+                                <nav class="menu">
+                                    <ul>
+                                        <li>
+                                            <button type="button" id="ch_gr1">
+                                                <div class="parX">
+                                                    <div class="btn_1 blue_base">
+                                                        <span class="ether_wrp">
+                                                            <span class="line ltop"></span>
+                                                            <span class="line rbot"></span>
+                                                            <span class="line lmid"></span>
+                                                            <span class="line rmid"></span>
+                                                            <span>
+                                                                <span class="cirC">
+                                                                    <span class="is_cirC"></span>
+                                                                </span>
+                                                                <span class="ether_text">use of funds V I</span>
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button type="button" id="ch_gr2">
+                                                <div class="parX">
+                                                    <div class="btn_1 blue_base">
+                                                        <span class="ether_wrp">
+                                                            <span class="line ltop"></span>
+                                                            <span class="line rbot"></span>
+                                                            <span class="line lmid"></span>
+                                                            <span class="line rmid"></span>
+                                                            <span>
+                                                                <span class="cirC">
+                                                                    <span class="is_cirC"></span>
+                                                                </span>
+                                                                <span class="ether_text">use of funds V II</span>
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </button>
+                                        </li>
+                                        <li>
+                                            <button type="button" id="ch_gr3">
+                                                <div class="parX">
+                                                    <div class="btn_1 blue_base">
+                                                        <span class="ether_wrp">
+                                                            <span class="line ltop"></span>
+                                                            <span class="line rbot"></span>
+                                                            <span class="line lmid"></span>
+                                                            <span class="line rmid"></span>
+                                                            <span>
+                                                                <span class="cirC">
+                                                                    <span class="is_cirC"></span>
+                                                                </span>
+                                                                <span class="ether_text">Founder 12%</span>
+                                                            </span>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </button>
+                                        </li>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="box-l-bottom">
+                            <div class="box-grey">
+                                <span class="let_char">copyrighted DexSwapProject | email:
+                                    gin.dropdisco@gmail.com</span>
+                                <span class="let_char onmobile">
+                                    <div class="symbol">
+                                        Projects: DexSwap AMM 
+                                    </div>
+                                    <div class="symbol">
+                                        Projects: ZooHarmony
+                                    </div>
+                                    <div class="suppp">
+                                        Symbol: xDEXS & ZOO
+                                    </div>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="divider_nt vertical_line is13"></div>
+                    </div>
+                    <div class="section-right_tokensale">
+                        <div class="box-r-1">
+                            <div class="chart_item_graph">
+                                <div id="chart_main_item" class="this_chart_ratio chart_bs1">
+                                    <img src="./assets/TAL.png" class="letload" alt="">
+                                </div>
+                                <div id="chart_main_item" class="this_chart_ratio chart_bs2">
+                                    <img src="./assets/USF.png" class="letload" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-r-2">
+                            <div class="chart_item_text">
+                                <ul class="abs__">
+                                    <li>
+                                        <div class="text_pro_1">
+                                            Recruiting [4 developers x 14 months] || 27%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="ps_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            Recruiting [3 Comunity Managers x 14 months] || 6%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="ieo_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            managemnet plan for the funds || 5%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="fndr_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            bussines managment || 5%
+                                        </div>
+                                        <div class="aria_bar">
+
+                                            <div class="thisprogress_txt" id="tmp_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            marketing social media || 2%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="ardrp_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            partnership and bussines || 10%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="rsv_bar"></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <ul class="rltv__">
+                                    <li>
+                                        <div class="text_pro_1">
+                                            workshop and mentoring || 7%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="markb_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            server for one years || 2%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="infrs_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            LEGAL, COMPLIANCE AND AUDIT || 7%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="pltfr_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            Airdrop Q1~ Q2 2023 || 10%
+                                        </div>
+                                        <div class="aria_bar">
+
+                                            <div class="thisprogress_txt" id="operat_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            sponsorship hackathon & events | 5%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="legcomp_bar"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="text_pro_1">
+                                            roadmap and milestones | 2%
+                                        </div>
+                                        <div class="aria_bar">
+                                            <div class="thisprogress_txt" id="legcomp2_bar"></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- split box -->
+                        <div class="split_right">
+                            <div class="box-rs-1">
+                                <div class="titilebrs">
+                                    <div class="tb1">
+                                        <span class="let_char headersml">
+                                            Recruiting more Dev for Another Excecution Process
+                                        </span>
+                                        <span class="let_char headerbig">
+                                            <small>2% from founder</small>
+                                        </span>
+                                    </div>
+                                    <div class="tb2">
+                                        <span class="let_char headersml">
+                                            Budget Tracking
+                                        </span>
+                                        <span class="let_char headerbig">
+                                            <small>1% from founder</small>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="box_thisred"></div>
+                            </div>
+                            <div class="box-rs-2">
+                                <div class="titilebrs">
+                                    <div class="tb1">
+                                        <span class="let_char headersml">
+                                            PLATFORM DEVELOPMENT
+                                        </span>
+                                        <span class="let_char headerbig">
+                                            <small>6% from founder</small>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-rs-3">
+                                <div class="titilebrs">
+                                    <div class="tb1">
+                                        <span class="let_char headersml">
+                                            Bug Bounty Program
+                                        </span>
+                                        <span class="let_char headerbig">
+                                            ROUND 1
+                                            <small>2%</small>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-rs-4">
+                                <div class="titilebrs">
+                                    <div class="tb1">
+                                        <span class="let_char headersml">
+                                            Bug Bounty Program
+                                        </span>
+                                        <span class="let_char headerbig">
+                                            ROUND 2
+                                            <small>1%</small>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-rs-middle right bottom"></div>
+                            <div class="box-rs-middle left bottom"></div>
+                            <div class="divider vertical_line"></div>
+                        </div>
+                        <div class="divider vertical_line"></div>
+                    </div>
+                    <!-- <div id="rline"></div> -->
+                </div>
+            </section>
+        </div>
+
+    </main>
+
+
+    <div class="global-cursor">
+        <div class="custom-cursor single-cursor">
+            <div class="cursor-container">
+                <div class="cursor-text">
+                    <div class="cursor-text-wrapper">
+                        <div class="cursor-text-value">Scroll</div>
+                    </div>
+                    <div class="cursor-text-wrapper">
+                    </div>
+                </div>
+                <div class="cursor-part">
+                    <div class="cursor-item"></div>
+                </div>
+                <div class="cursor-part cursor-left">
+                    <i class="let-arleft"></i>
+                </div>
+                <div class="cursor-part cursor-right">
+                    <i class="let-arright"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="icon-wrap">
+        <div class="button-icon parallax-element">
+            <div class="bars">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </div>
+    </div>
+    <div data-delgo-grid="progress-circle" data-delgo-grid-stroke="#30d5eb">
+        <div class="icon__fixed" data-delgo-grid="parallax">
+            <i class="fas fa-angle-up"></i>
+        </div>
+    </div>
+    <div id="rotate-device"></div>
+
+
+    <script src="./assets/js/dexswap.js"></script>
+
+
+
+</body>
+
+</html>
